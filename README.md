@@ -1,5 +1,5 @@
-# bukped.github.io
-Bukupedia University
+# Universitas Bukupedia
+Learning from Anywhere
 
 
 ## Google Certified Data Scientist for FREE
