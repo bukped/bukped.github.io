@@ -64,10 +64,11 @@ Teknik Belajar yang dipilih :
 ### Plagiarism
 1. [Duplichecker](https://www.duplichecker.com/id)
 
-## Sertifikasi
+## Sertifikasi dan Kursus
 Beberapa Link untuk Sertifikasi :
 1. [classcentral](https://www.classcentral.com/)
-
+Kursus:
+1. [exercism](https://exercism.org/)
 
 ### Google Certified Data Scientist
 1. [Learn Python Basics for Data Analysis](https://learndigital.withgoogle.com/digitalunlocked/course/learn-python-basics-for-data-analysis)
