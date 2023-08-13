@@ -62,6 +62,9 @@ Teknik Belajar yang dipilih :
 11. [Kafkai](https://kafkai.com/en/)
 12. [Blog NLP](https://www.blognlp.com/)
 
+### Code
+1. [paperswithcode](https://paperswithcode.com/)
+
 ### Video
 1. [blog posts into videos](https://lumen5.com/)
 
