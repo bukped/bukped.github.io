@@ -70,6 +70,7 @@ Teknik Belajar yang dipilih :
 ## Sertifikasi dan Kursus
 Beberapa Link untuk Sertifikasi :
 1. [classcentral](https://www.classcentral.com/)
+
 Kursus:
 1. [exercism](https://exercism.org/)
 
