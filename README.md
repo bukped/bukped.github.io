@@ -49,6 +49,7 @@ Teknik Belajar yang dipilih :
 1. [Citation Machine](https://www.citationmachine.net/)
 2. Mendeley
 3. Zotero
+4. [Publish or perish](https://harzing.com/resources/publish-or-perish)
 
 ### Writing
 1. [Paperpal](https://paperpal.com/)
