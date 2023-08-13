@@ -32,6 +32,7 @@ Teknik Belajar yang dipilih :
 7. [SummerizeThiz](https://summarizethis.io/)
 8. [Get Digest](https://getdigest.com/en)
 9. [Notion](https://www.notion.so/)
+10. [Genei](https://www.genei.io/)
 
 ### Parafrase
 1. [Pre Post SEO](https://www.prepostseo.com/)
