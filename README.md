@@ -47,6 +47,8 @@ Teknik Belajar yang dipilih :
 
 ### Sitasi
 1. [Citation Machine](https://www.citationmachine.net/)
+2. Mendeley
+3. Zotero
 
 ### Writing
 1. [Paperpal](https://paperpal.com/)
@@ -67,6 +69,10 @@ Teknik Belajar yang dipilih :
 
 ### Video
 1. [blog posts into videos](https://lumen5.com/)
+
+### Plot
+1. [WebPlot Digitizer](
+https://automeris.io/WebPlotDigitizer/#:~:text=WebPlotDigitizer%20is%20a%20semi%2Dautomated,large%20number%20of%20data%20points)
 
 ### Plagiarism
 1. [Duplichecker](https://www.duplichecker.com/id)
