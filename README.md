@@ -25,6 +25,7 @@ Belajar dari mana Saja
 
 ### Parafrase
 1. [Pre Post SEO](https://www.prepostseo.com/)
+2. [Word AI](https://wordai.com/)
 
 ### Translator
 1. [Deepl](https://www.deepl.com/translator)
