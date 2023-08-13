@@ -35,6 +35,10 @@ Teknik Belajar yang dipilih :
 ### Translator
 1. [Deepl](https://www.deepl.com/translator)
 
+### Writing
+1. [Text Blaze](https://blaze.today/)
+2. [Caktus AI](https://caktus.ai/)
+
 ## Sertifikasi
 Beberapa Link untuk Sertifikasi
 ### Google Certified Data Scientist
