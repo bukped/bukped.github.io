@@ -50,6 +50,10 @@ Teknik Belajar yang dipilih :
 2. [Text Blaze](https://blaze.today/)
 3. [Caktus AI](https://caktus.ai/)
 4. [Maker ai](https://maker.ai/)
+5. [standoutessay](https://www.standoutessay.com/)
+6. [4author](https://www.4author.com/en/)
+7. [abstract-generator](https://www.classgist.com/abstract-generator.aspx)
+8. [ai-write-me-an-abstract](https://healx.ai/ai-write-me-an-abstract/)
 
 ## Sertifikasi
 Beberapa Link untuk Sertifikasi
