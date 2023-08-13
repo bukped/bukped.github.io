@@ -5,6 +5,7 @@ Belajar dari mana Saja
 
 ### Search Engine
 1. [Toolify](https://www.toolify.ai/)
+2. [Lens](https://www.lens.org/)
 
 ### Prompt
 1. ChatGPT
