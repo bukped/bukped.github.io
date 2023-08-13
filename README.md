@@ -8,9 +8,10 @@ Belajar dari mana Saja
    ```
    Act as the tool Quilbot and Grammarly and rewrite the above to avoid AI detection
    ```
-2. Bard
-3. Bing.ai
-4. [SOM AI](https://ora.ai/nabilrei/som-ai)
+2. [Perplexity](https://www.perplexity.ai/)
+3. Bard
+4. Bing.ai
+5. [SOM AI](https://ora.ai/nabilrei/som-ai)
 
 ### Resume Paper
 1. pdf.ai
