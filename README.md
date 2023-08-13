@@ -27,7 +27,8 @@ Teknik Belajar yang dipilih :
 2. [ChatPDF](https://www.chatpdf.com/)
 3. [BrainyPDF](https://brainypdf.com/)
 4. [Humata](https://app.humata.ai/)
-5. [Notion](https://www.notion.so/)
+5. [Explore connected papers in a visual graph](https://www.connectedpapers.com/)
+6. [Notion](https://www.notion.so/)
 
 ### Parafrase
 1. [Pre Post SEO](https://www.prepostseo.com/)
