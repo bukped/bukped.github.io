@@ -3,6 +3,9 @@ Belajar dari mana Saja
 
 ## Alat Bantu Kecerdasan Buatan
 
+### Search Engine
+1. [Toolify](https://www.toolify.ai/)
+
 ### Prompt
 1. ChatGPT
    ```
@@ -16,8 +19,9 @@ Belajar dari mana Saja
 ### Resume Paper
 1. pdf.ai
 2. [ChatPDF](https://www.chatpdf.com/)
-3. [Humata](https://app.humata.ai/)
-4. [Notion](https://www.notion.so/)
+3. [BrainyPDF](https://brainypdf.com/)
+4. [Humata](https://app.humata.ai/)
+5. [Notion](https://www.notion.so/)
 
 ### Parafrase
 1. [Pre Post SEO](https://www.prepostseo.com/)
