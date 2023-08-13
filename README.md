@@ -1,8 +1,12 @@
 # Universitas Bukupedia
-Learning from Anywhere
+Belajar dari mana Saja
 
+## Alat Bantu Kecerdasan Buatan
 
-## Google Certified Data Scientist for FREE
+### Resume Paper
+1. pdf.ai
+
+## Google Certified Data Scientist
 1. [Learn Python Basics for Data Analysis](https://learndigital.withgoogle.com/digitalunlocked/course/learn-python-basics-for-data-analysis)
 2. [Data Science Foundation](https://learndigital.withgoogle.com/digitalunlocked/course/data-science-foundations)
 3. [Data Science with Python](https://learndigital.withgoogle.com/digitalunlocked/course/data-science-with-python)
