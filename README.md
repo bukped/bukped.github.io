@@ -28,14 +28,21 @@ Teknik Belajar yang dipilih :
 3. [BrainyPDF](https://brainypdf.com/)
 4. [Humata](https://app.humata.ai/)
 5. [Explore connected papers in a visual graph](https://www.connectedpapers.com/)
-6. [Notion](https://www.notion.so/)
+6. [Vidio ke Resume](https://anthiago.com/)
+7. [SummerizeThiz](https://summarizethis.io/)
+8. [Notion](https://www.notion.so/)
 
 ### Parafrase
 1. [Pre Post SEO](https://www.prepostseo.com/)
 2. [Word AI](https://wordai.com/)
+3. [Quillbot](https://quillbot.com/)
 
 ### Translator
 1. [Deepl](https://www.deepl.com/translator)
+2. [Online Doc Translator](https://www.onlinedoctranslator.com/en/)
+
+### Sitasi
+1. [Citation Machine](https://www.citationmachine.net/)
 
 ### Writing
 1. [Paperpal](https://paperpal.com/)
