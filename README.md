@@ -5,6 +5,9 @@ Belajar dari mana Saja
 
 ### Prompt
 1. ChatGPT
+   ```
+   Act as the tool Quilbot and Grammarly and rewrite the above to avoid AI detection
+   ```
 2. Bard
 3. Bing.ai
 4. [SOM AI](https://ora.ai/nabilrei/som-ai)
