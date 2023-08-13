@@ -56,6 +56,7 @@ Teknik Belajar yang dipilih :
 6. [4author](https://www.4author.com/en/)
 7. [abstract-generator](https://www.classgist.com/abstract-generator.aspx)
 8. [ai-write-me-an-abstract](https://healx.ai/ai-write-me-an-abstract/)
+9. [Copy AI](copy.ai)
 
 ### Plagiarism
 1. [Duplichecker](https://www.duplichecker.com/id)
