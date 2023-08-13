@@ -15,6 +15,9 @@ Belajar dari mana Saja
 ### Resume Paper
 1. pdf.ai
 
+### Parafrase
+1. [Pre Post SEO](https://www.prepostseo.com/)
+
 ## Sertifikasi
 Beberapa Link untuk Sertifikasi
 ### Google Certified Data Scientist
