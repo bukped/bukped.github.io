@@ -1,5 +1,9 @@
 # Universitas Bukupedia
-Belajar dari mana Saja
+Teknik Belajar yang dipilih :
+1. Pomodoro Technique
+2. Feynman Technique
+3. Leitner System
+4. Reward-Based Learning
 
 ## Alat Bantu Kecerdasan Buatan
 
