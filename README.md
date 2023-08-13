@@ -19,6 +19,9 @@ Belajar dari mana Saja
 ### Parafrase
 1. [Pre Post SEO](https://www.prepostseo.com/)
 
+### Translator
+1. [Deepl](https://www.deepl.com/translator)
+
 ## Sertifikasi
 Beberapa Link untuk Sertifikasi
 ### Google Certified Data Scientist
