@@ -15,7 +15,8 @@ Belajar dari mana Saja
 
 ### Resume Paper
 1. pdf.ai
-2. [Notion](https://www.notion.so/)
+2. [Humata](https://app.humata.ai/)
+3. [Notion](https://www.notion.so/)
 
 ### Parafrase
 1. [Pre Post SEO](https://www.prepostseo.com/)
