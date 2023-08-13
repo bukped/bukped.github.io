@@ -34,6 +34,8 @@ Teknik Belajar yang dipilih :
 9. [Get Digest](https://getdigest.com/en)
 10. [Notion](https://www.notion.so/)
 11. [Genei](https://www.genei.io/)
+12. [Watase](https://watase.web.id/home/index.php#)
+
 
 ### Parafrase
 1. [Pre Post SEO](https://www.prepostseo.com/)
