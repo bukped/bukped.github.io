@@ -37,8 +37,9 @@ Teknik Belajar yang dipilih :
 1. [Deepl](https://www.deepl.com/translator)
 
 ### Writing
-1. [Text Blaze](https://blaze.today/)
-2. [Caktus AI](https://caktus.ai/)
+1. [Paperpal](https://paperpal.com/)
+2. [Text Blaze](https://blaze.today/)
+3. [Caktus AI](https://caktus.ai/)
 
 ## Sertifikasi
 Beberapa Link untuk Sertifikasi
