@@ -44,6 +44,7 @@ Teknik Belajar yang dipilih :
 ### Translator
 1. [Deepl](https://www.deepl.com/translator)
 2. [Online Doc Translator](https://www.onlinedoctranslator.com/en/)
+3. Grammarly
 
 ### Sitasi
 1. [Citation Machine](https://www.citationmachine.net/)
