@@ -26,13 +26,14 @@ Teknik Belajar yang dipilih :
 1. pdf.ai
 2. [ChatPDF](https://www.chatpdf.com/)
 3. [BrainyPDF](https://brainypdf.com/)
-4. [Humata](https://app.humata.ai/)
-5. [Explore connected papers in a visual graph](https://www.connectedpapers.com/)
-6. [Vidio ke Resume](https://anthiago.com/)
-7. [SummerizeThiz](https://summarizethis.io/)
-8. [Get Digest](https://getdigest.com/en)
-9. [Notion](https://www.notion.so/)
-10. [Genei](https://www.genei.io/)
+4. [Humata ai](https://app.humata.ai/)
+5. [Typeset io](https://typeset.io/)
+6. [connected papers](https://www.connectedpapers.com/)
+7. [Vidio ke Resume](https://anthiago.com/)
+8. [SummerizeThiz](https://summarizethis.io/)
+9. [Get Digest](https://getdigest.com/en)
+10. [Notion](https://www.notion.so/)
+11. [Genei](https://www.genei.io/)
 
 ### Parafrase
 1. [Pre Post SEO](https://www.prepostseo.com/)
