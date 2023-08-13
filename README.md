@@ -57,7 +57,10 @@ Teknik Belajar yang dipilih :
 8. [ai-write-me-an-abstract](https://healx.ai/ai-write-me-an-abstract/)
 
 ## Sertifikasi
-Beberapa Link untuk Sertifikasi
+Beberapa Link untuk Sertifikasi :
+1. [classcentral](https://www.classcentral.com/)
+
+
 ### Google Certified Data Scientist
 1. [Learn Python Basics for Data Analysis](https://learndigital.withgoogle.com/digitalunlocked/course/learn-python-basics-for-data-analysis)
 2. [Data Science Foundation](https://learndigital.withgoogle.com/digitalunlocked/course/data-science-foundations)
