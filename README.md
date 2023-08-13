@@ -38,6 +38,7 @@ Teknik Belajar yang dipilih :
 1. [Pre Post SEO](https://www.prepostseo.com/)
 2. [Word AI](https://wordai.com/)
 3. [Quillbot](https://quillbot.com/)
+4. [speedwrite](https://speedwrite.com/)
 
 ### Translator
 1. [Deepl](https://www.deepl.com/translator)
@@ -55,6 +56,9 @@ Teknik Belajar yang dipilih :
 6. [4author](https://www.4author.com/en/)
 7. [abstract-generator](https://www.classgist.com/abstract-generator.aspx)
 8. [ai-write-me-an-abstract](https://healx.ai/ai-write-me-an-abstract/)
+
+### Plagiarism
+1. [Duplichecker](https://www.duplichecker.com/id)
 
 ## Sertifikasi
 Beberapa Link untuk Sertifikasi :
