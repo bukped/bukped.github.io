@@ -61,6 +61,9 @@ Teknik Belajar yang dipilih :
 11. [Kafkai](https://kafkai.com/en/)
 12. [Blog NLP](https://www.blognlp.com/)
 
+### Video
+1. [blog posts into videos](https://lumen5.com/)
+
 ### Plagiarism
 1. [Duplichecker](https://www.duplichecker.com/id)
 
