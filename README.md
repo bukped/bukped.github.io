@@ -49,6 +49,7 @@ Teknik Belajar yang dipilih :
 1. [Paperpal](https://paperpal.com/)
 2. [Text Blaze](https://blaze.today/)
 3. [Caktus AI](https://caktus.ai/)
+4. [Maker ai](https://maker.ai/)
 
 ## Sertifikasi
 Beberapa Link untuk Sertifikasi
