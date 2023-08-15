@@ -5,15 +5,19 @@
 ## Pilih Teknik Belajar
 Silahkan Memilih Salah Satu Teknik Untuk Belajar :
 1. Pomodoro Technique
+
    ![image](https://github.com/bukped/bukped.github.io/assets/11188109/999b0968-5dd8-4e31-9b8d-b06e0f818c72)
 
 2. Feynman Technique
+
    ![image](https://github.com/bukped/bukped.github.io/assets/11188109/0a09fbbc-7be4-4520-9635-1ee524308c51)
 
 3. Leitner System
+
    ![image](https://github.com/bukped/bukped.github.io/assets/11188109/97bc8424-318f-4e0f-a28d-793cb49c5f98)
 
 4. Blurting Method
+
    ![image](https://github.com/bukped/bukped.github.io/assets/11188109/08fc8f60-7873-452c-b1b3-8aa49efcaaef)
 
 5. Reward-Based Learning
