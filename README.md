@@ -10,7 +10,7 @@ Silahkan Memilih Salah Satu Teknik Untuk Belajar :
 
 2. Feynman Technique
 
-   ![image](https://github.com/bukped/bukped.github.io/assets/11188109/0a09fbbc-7be4-4520-9635-1ee524308c51)
+   ![image](https://github.com/bukped/bukped.github.io/assets/11188109/45856097-dd69-4afc-b300-de8440d61b9e)
 
 3. Leitner System
 
