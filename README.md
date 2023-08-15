@@ -2,7 +2,8 @@
 
 ![image](https://github.com/bukped/bukped.github.io/assets/11188109/302aef24-7512-4fe9-be64-f1e33e355416)
 
-Teknik Belajar yang dipilih :
+## Pilih Teknik Belajar
+Silahkan Memilih Salah Satu Teknik Untuk Belajar :
 1. Pomodoro Technique
 2. Feynman Technique
 3. Leitner System
