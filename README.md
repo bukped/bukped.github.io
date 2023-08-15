@@ -1,4 +1,7 @@
 # Universitas Bukupedia
+
+![image](https://github.com/bukped/bukped.github.io/assets/11188109/302aef24-7512-4fe9-be64-f1e33e355416)
+
 Teknik Belajar yang dipilih :
 1. Pomodoro Technique
 2. Feynman Technique
