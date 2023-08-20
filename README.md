@@ -27,6 +27,9 @@ Silahkan Memilih Salah Satu Teknik Untuk Belajar :
 ### Search Engine
 1. [Toolify](https://www.toolify.ai/)
 2. [Lens](https://www.lens.org/)
+3. [Consensus](https://consensus.app/)
+4. [Lexica Art](https://lexica.art/)
+5. [Tiny Wow](https://tinywow.com/)
 
 ### Prompt
 1. ChatGPT
@@ -37,6 +40,7 @@ Silahkan Memilih Salah Satu Teknik Untuk Belajar :
 3. Bard
 4. Bing.ai
 5. [SOM AI](https://ora.ai/nabilrei/som-ai)
+6. [Falcons AI](https://falcons.ai/)
 
 ### Resume Paper
 1. pdf.ai
@@ -83,13 +87,22 @@ Silahkan Memilih Salah Satu Teknik Untuk Belajar :
 10. [Copy AI](copy.ai)
 11. [Kafkai](https://kafkai.com/en/)
 12. [Blog NLP](https://www.blognlp.com/)
+13. [Promind AI](https://promind.ai/)
+14. [Wisio | Write Science Powered by AI](https://www.wisio.app/)
 
 ### Code
 1. [paperswithcode](https://paperswithcode.com/)
 2. [Code Convert](https://www.codeconvert.ai/)
+3. [Game Creator frvr](https://www.frvr.ai/)
 
 ### Video
 1. [blog posts into videos](https://lumen5.com/)
+2. [myshell robot workshop](https://app.myshell.ai/robot-workshop)
+3. [d-id AI Generated Video](https://www.d-id.com/)
+4. [Fliki AI](https://fliki.ai/)
+
+### Voice
+1. [Murf AI](https://murf.ai/)
 
 ### Plot
 1. [WebPlot Digitizer](
@@ -97,6 +110,9 @@ https://automeris.io/WebPlotDigitizer/#:~:text=WebPlotDigitizer%20is%20a%20semi%
 
 ### Plagiarism
 1. [Duplichecker](https://www.duplichecker.com/id)
+
+### Frontend Dev and Design
+1. [uizard](https://uizard.io/)
 
 ## Sertifikasi dan Kursus
 Beberapa Link untuk Sertifikasi :
