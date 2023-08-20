@@ -96,6 +96,9 @@ Silahkan Memilih Salah Satu Teknik Untuk Belajar :
 1. [paperswithcode](https://paperswithcode.com/)
 2. [Code Convert](https://www.codeconvert.ai/)
 3. [Game Creator frvr](https://www.frvr.ai/)
+4. [Auto REgex](https://www.autoregex.xyz/)
+5. [Lightning AI](https://lightning.ai/)
+6. [Github Copilot](https://github.com/features/copilot)
 
 ### Video
 1. [blog posts into videos](https://lumen5.com/)
