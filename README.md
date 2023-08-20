@@ -105,6 +105,12 @@ Silahkan Memilih Salah Satu Teknik Untuk Belajar :
 5. [Synthesia](https://www.synthesia.io/)
 6. [Runway ML](https://runwayml.com/)
 
+### Sound
+1. [Beatoven](https://www.beatoven.ai/)
+2. [Adobe Podcast](https://podcast.adobe.com/)
+3. [Ecrett Music](https://ecrettmusic.com/)
+
+
 ### Voice
 1. [Murf AI](https://murf.ai/)
 
