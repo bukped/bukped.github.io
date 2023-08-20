@@ -24,8 +24,6 @@ Silahkan Memilih Salah Satu Teknik Untuk Belajar :
    
 ## Alat Bantu Kecerdasan Buatan
 
-![WhatsApp Image 2023-08-19 at 21 26 43](https://github.com/bukped/bukped.github.io/assets/11188109/1a607052-6cbe-45b8-bada-47368fc86bb8)
-
 ### Search Engine
 1. [Toolify](https://www.toolify.ai/)
 2. [Lens](https://www.lens.org/)
