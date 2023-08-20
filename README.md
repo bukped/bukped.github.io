@@ -119,6 +119,13 @@ https://automeris.io/WebPlotDigitizer/#:~:text=WebPlotDigitizer%20is%20a%20semi%
 3. [Durable Web Builder](https://durable.co/ai-website-builder)
 4. [Bing Image Creator](https://www.bing.com/create)
 5. [MS Designer](https://designer.microsoft.com/)
+6. [10Web Builder](https://10web.io/)
+7. [Bookmark Website Builder](https://www.bookmark.com/)
+
+### Slide
+1. [Slide AI](https://www.slidesai.io/)
+2. [Beatiful ai](https://www.beautiful.ai/)
+3. [Slides GO](https://slidesgo.com/)
 
 ## Sertifikasi dan Kursus
 Beberapa Link untuk Sertifikasi :
