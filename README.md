@@ -113,6 +113,7 @@ https://automeris.io/WebPlotDigitizer/#:~:text=WebPlotDigitizer%20is%20a%20semi%
 
 ### Frontend Dev and Design
 1. [uizard](https://uizard.io/)
+2. [Midjourney |  generates images from natural language descriptions](https://www.midjourney.com/)
 
 ## Sertifikasi dan Kursus
 Beberapa Link untuk Sertifikasi :
