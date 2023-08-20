@@ -102,6 +102,8 @@ Silahkan Memilih Salah Satu Teknik Untuk Belajar :
 2. [myshell robot workshop](https://app.myshell.ai/robot-workshop)
 3. [d-id AI Generated Video](https://www.d-id.com/)
 4. [Fliki AI](https://fliki.ai/)
+5. [Synthesia](https://www.synthesia.io/)
+6. [Runway ML](https://runwayml.com/)
 
 ### Voice
 1. [Murf AI](https://murf.ai/)
