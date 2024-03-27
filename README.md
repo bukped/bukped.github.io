@@ -26,10 +26,10 @@ Silahkan Memilih Salah Satu Teknik Untuk Belajar :
 
 ### Search Engine
 1. [Toolify : Discover The Best AI Websites & Tools](https://www.toolify.ai/)
-2. [Lens](https://www.lens.org/)
+2. [Lens : serves integrated scholarly and patent knowledge as a public good to inform science and technology enabled problem solving](https://www.lens.org/)
 3. [Consensus: a search engine that uses AI to find insights in research papers](https://consensus.app/)
-4. [Lexica Art](https://lexica.art/)
-5. [Tiny Wow](https://tinywow.com/)
+4. [Lexica Art: image art repo](https://lexica.art/)
+5. [Tiny Wow: Free Tools to Make everything simple](https://tinywow.com/)
 
 ### Prompt
 1. ChatGPT
