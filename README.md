@@ -27,7 +27,7 @@ Silahkan Memilih Salah Satu Teknik Untuk Belajar :
 ### Search Engine
 1. [Toolify](https://www.toolify.ai/)
 2. [Lens](https://www.lens.org/)
-3. [Consensus](https://consensus.app/)
+3. [Consensus: a search engine that uses AI to find insights in research papers](https://consensus.app/)
 4. [Lexica Art](https://lexica.art/)
 5. [Tiny Wow](https://tinywow.com/)
 
