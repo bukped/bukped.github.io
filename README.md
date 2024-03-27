@@ -40,10 +40,10 @@ Silahkan Memilih Salah Satu Teknik Untuk Belajar :
 3. Bard
 4. Bing.ai
 5. [Somai.id : membantu untuk membuat tugas akhir](https://somai.id/) | [SOM AI](https://ora.ai/nabilrei/som-ai)
-6. [Falcons AI](https://falcons.ai/)
+6. [Falcons AI:  identify, assess, and solve client opportunities and issues by leveraging artificial intelligence](https://falcons.ai/)
 
 ### Resume Paper
-1. pdf.ai
+1. [pdf.ai:Chat with any PDF document](https://pdf.ai/)
 2. [ChatPDF](https://www.chatpdf.com/)
 3. [BrainyPDF](https://brainypdf.com/)
 4. [Humata ai](https://app.humata.ai/)
