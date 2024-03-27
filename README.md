@@ -46,7 +46,7 @@ Silahkan Memilih Salah Satu Teknik Untuk Belajar :
 1. [pdf.ai: Chat with any PDF document](https://pdf.ai/)
 2. [ChatPDF](https://www.chatpdf.com/)
 3. [BrainyPDF](https://brainypdf.com/)
-4. [Humata ai](https://app.humata.ai/)
+4. [Humata ai: Chat your way through long documents. Command our PDF AI to summarize for you.](https://app.humata.ai/)
 5. [Typeset io: Do hours worth of reading in minutes for Scientific PDF](https://typeset.io/)
 6. [connected papers](https://www.connectedpapers.com/)
 7. [Vidio ke Resume](https://anthiago.com/)
