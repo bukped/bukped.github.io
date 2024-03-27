@@ -47,7 +47,7 @@ Silahkan Memilih Salah Satu Teknik Untuk Belajar :
 2. [ChatPDF](https://www.chatpdf.com/)
 3. [BrainyPDF](https://brainypdf.com/)
 4. [Humata ai](https://app.humata.ai/)
-5. [Typeset io](https://typeset.io/)
+5. [Typeset io: Do hours worth of reading in minutes for Scientific PDF](https://typeset.io/)
 6. [connected papers](https://www.connectedpapers.com/)
 7. [Vidio ke Resume](https://anthiago.com/)
 8. [SummerizeThiz](https://summarizethis.io/)
