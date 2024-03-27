@@ -36,25 +36,25 @@ Silahkan Memilih Salah Satu Teknik Untuk Belajar :
    ```
    Act as the tool Quilbot and Grammarly and rewrite the above to avoid AI detection
    ```
-2. [Perplexity: ask about academic writing reading and resume pdf journal](https://www.perplexity.ai/)
-3. Bard
-4. Bing.ai
-5. [Somai.id : membantu untuk membuat tugas akhir](https://somai.id/) | [SOM AI](https://ora.ai/nabilrei/som-ai)
-6. [Falcons AI:  identify, assess, and solve client opportunities and issues by leveraging artificial intelligence](https://falcons.ai/)
+2. Bard
+3. Bing.ai
+4. [Somai.id : membantu untuk membuat tugas akhir](https://somai.id/) | [SOM AI](https://ora.ai/nabilrei/som-ai)
+5. [Falcons AI:  identify, assess, and solve client opportunities and issues by leveraging artificial intelligence](https://falcons.ai/)
 
 ### Resume Paper
-1. [pdf.ai: Chat with any PDF document](https://pdf.ai/)
-2. [ChatPDF](https://www.chatpdf.com/)
-3. [BrainyPDF](https://brainypdf.com/)
-4. [Humata ai](https://app.humata.ai/)
-5. [Typeset io: Do hours worth of reading in minutes for Scientific PDF](https://typeset.io/)
-6. [connected papers: Explore academic papers in a visual graph](https://www.connectedpapers.com/)
-7. [anthiago: Vidio ke Resume](https://anthiago.com/)
-8. [SummerizeThiz](https://summarizethis.io/)
-9. [Get Digest](https://getdigest.com/en)
-10. [Notion](https://www.notion.so/)
-11. [Genei](https://www.genei.io/)
-12. [Watase](https://watase.web.id/home/index.php#)
+1. [Perplexity: ask about academic writing reading and resume pdf journal](https://www.perplexity.ai/)
+2. [pdf.ai: Chat with any PDF document](https://pdf.ai/)
+3. [ChatPDF](https://www.chatpdf.com/)
+4. [BrainyPDF](https://brainypdf.com/)
+5. [Humata ai](https://app.humata.ai/)
+6. [Typeset io: Do hours worth of reading in minutes for Scientific PDF](https://typeset.io/)
+7. [connected papers: Explore academic papers in a visual graph](https://www.connectedpapers.com/)
+8. [anthiago: Vidio ke Resume](https://anthiago.com/)
+9. [SummerizeThiz](https://summarizethis.io/)
+10. [Get Digest](https://getdigest.com/en)
+11. [Notion](https://www.notion.so/)
+12. [Genei](https://www.genei.io/)
+13. [Watase](https://watase.web.id/home/index.php#)
 
 
 ### Parafrase
