@@ -25,11 +25,11 @@ Silahkan Memilih Salah Satu Teknik Untuk Belajar :
 ## Alat Bantu Kecerdasan Buatan
 
 ### Search Engine
-1. [Toolify : Discover The Best AI Websites & Tools](https://www.toolify.ai/)
-2. [Lens : serves integrated scholarly and patent knowledge as a public good to inform science and technology enabled problem solving](https://www.lens.org/)
+1. [Toolify: Discover The Best AI Websites & Tools](https://www.toolify.ai/)
+2. [Lens: serves integrated scholarly and patent knowledge as a public good to inform science and technology enabled problem solving](https://www.lens.org/)
 3. [Consensus: a search engine that uses AI to find insights in research papers](https://consensus.app/)
 4. [Lexica Art: image art repo](https://lexica.art/)
-5. [Tiny Wow: Free Tools to Make everything simple](https://tinywow.com/)
+5. [Tiny Wow: Free Tools to Make Everything Simple](https://tinywow.com/)
 
 ### Prompt
 1. ChatGPT
@@ -43,7 +43,7 @@ Silahkan Memilih Salah Satu Teknik Untuk Belajar :
 6. [Falcons AI:  identify, assess, and solve client opportunities and issues by leveraging artificial intelligence](https://falcons.ai/)
 
 ### Resume Paper
-1. [pdf.ai:Chat with any PDF document](https://pdf.ai/)
+1. [pdf.ai: Chat with any PDF document](https://pdf.ai/)
 2. [ChatPDF](https://www.chatpdf.com/)
 3. [BrainyPDF](https://brainypdf.com/)
 4. [Humata ai](https://app.humata.ai/)
