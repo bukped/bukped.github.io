@@ -25,7 +25,7 @@ Silahkan Memilih Salah Satu Teknik Untuk Belajar :
 ## Alat Bantu Kecerdasan Buatan
 
 ### Search Engine
-1. [Toolify](https://www.toolify.ai/)
+1. [Toolify : Discover The Best AI Websites & Tools](https://www.toolify.ai/)
 2. [Lens](https://www.lens.org/)
 3. [Consensus: a search engine that uses AI to find insights in research papers](https://consensus.app/)
 4. [Lexica Art](https://lexica.art/)
