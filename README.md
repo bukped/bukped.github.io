@@ -39,7 +39,7 @@ Silahkan Memilih Salah Satu Teknik Untuk Belajar :
 2. [Perplexity: ask about academic writing reading and resume pdf journal](https://www.perplexity.ai/)
 3. Bard
 4. Bing.ai
-5. [SOM AI](https://ora.ai/nabilrei/som-ai)
+5. [Somai.id : membantu untuk membuat tugas akhir](https://somai.id/) | [SOM AI](https://ora.ai/nabilrei/som-ai)
 6. [Falcons AI](https://falcons.ai/)
 
 ### Resume Paper
