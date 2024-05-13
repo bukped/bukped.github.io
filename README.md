@@ -88,7 +88,7 @@ Silahkan Memilih Salah Satu Teknik Untuk Belajar :
 11. [Kafkai](https://kafkai.com/en/)
 12. [Blog NLP](https://www.blognlp.com/)
 13. [Promind AI](https://promind.ai/)
-14. [Wisio | Write Science Powered by AI](https://www.wisio.app/)
+14. [Wisio](https://www.wisio.app/) : Write Science Powered by AI
 
 ### Code
 1. [paperswithcode](https://paperswithcode.com/)
