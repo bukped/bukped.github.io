@@ -124,7 +124,7 @@ https://automeris.io/WebPlotDigitizer/#:~:text=WebPlotDigitizer%20is%20a%20semi%
 
 ### Frontend Dev and Design
 1. [uizard](https://uizard.io/)
-2. [Midjourney |  generates images from natural language descriptions](https://www.midjourney.com/)
+2. [Midjourney](https://www.midjourney.com/): generates images from natural language descriptions
 3. [Durable Web Builder](https://durable.co/ai-website-builder)
 4. [Bing Image Creator](https://www.bing.com/create)
 5. [MS Designer](https://designer.microsoft.com/)
