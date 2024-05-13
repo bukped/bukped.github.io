@@ -38,7 +38,7 @@ Silahkan Memilih Salah Satu Teknik Untuk Belajar :
    ```
 2. Bard
 3. Bing.ai
-4. [Somai.id : membantu untuk membuat tugas akhir](https://somai.id/) | [SOM AI](https://ora.ai/nabilrei/som-ai)
+4. [Somai.id : membantu untuk membuat tugas akhir](https://somai.id/), [SOM AI](https://ora.ai/nabilrei/som-ai)
 5. [Falcons AI:  identify, assess, and solve client opportunities and issues by leveraging artificial intelligence](https://falcons.ai/)
 
 ### Resume Paper
