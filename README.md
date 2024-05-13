@@ -154,4 +154,8 @@ Kursus:
 1. [Learn Programming with Javascript](https://learndigital.withgoogle.com/digitalgarage/course/learn-programming-with-javascript)
 2. [Javascript for Web Designer](https://www.linkedin.com/learning/javascript-for-web-designers-3)
 3. [Introduction to Javascript](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-javascript)
- 
+
+
+ ## Publikasi
+
+ Daftar jurnal yang direkomendasikan untuk publikasi bisa dilihat di [daftar jurnal bukupedia](http://universitas.bukupedia.co.id/jurnal/)
