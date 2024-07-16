@@ -137,8 +137,10 @@ https://automeris.io/WebPlotDigitizer/#:~:text=WebPlotDigitizer%20is%20a%20semi%
 3. [Slides GO](https://slidesgo.com/)
 
 ## Sertifikasi dan Kursus
+
 Acuan Asesor:
-1.[lsp](https://universitas.bukupedia.co.id/lsp/)
+1. [LSP](https://universitas.bukupedia.co.id/lsp/)
+2. [Rubrik BKD](http://universitas.bukupedia.co.id/rubrikbkd/)
 
 Beberapa Link untuk Sertifikasi :
 1. [classcentral](https://www.classcentral.com/)
