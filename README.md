@@ -137,6 +137,9 @@ https://automeris.io/WebPlotDigitizer/#:~:text=WebPlotDigitizer%20is%20a%20semi%
 3. [Slides GO](https://slidesgo.com/)
 
 ## Sertifikasi dan Kursus
+Acuan Asesor:
+1.[lsp](https://universitas.bukupedia.co.id/lsp/)
+
 Beberapa Link untuk Sertifikasi :
 1. [classcentral](https://www.classcentral.com/)
 
@@ -156,6 +159,5 @@ Kursus:
 3. [Introduction to Javascript](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-javascript)
 
 
- ## Publikasi
-
- Daftar jurnal yang direkomendasikan untuk publikasi bisa dilihat di [daftar jurnal bukupedia](http://universitas.bukupedia.co.id/jurnal/)
+## Publikasi Jurnal
+Daftar jurnal yang direkomendasikan untuk publikasi bisa dilihat di [daftar jurnal bukupedia](http://universitas.bukupedia.co.id/jurnal/)
