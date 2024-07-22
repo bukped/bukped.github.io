@@ -163,3 +163,12 @@ Kursus:
 
 ## Publikasi Jurnal
 Daftar jurnal yang direkomendasikan untuk publikasi bisa dilihat di [daftar jurnal bukupedia](http://universitas.bukupedia.co.id/jurnal/)
+
+### Latex
+1. Download dan install [Strawberry Perl](https://strawberryperl.com/)
+2. Download dan install [MiKTeX](https://miktex.org/download)
+3. Download dan install ekstensi Latex Workshop di vscode
+   ![image](https://github.com/user-attachments/assets/fc6e4d49-266d-4ebe-911b-0725bf651482)
+
+
+
