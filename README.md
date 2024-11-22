@@ -2,6 +2,7 @@
 
 Kelas:
 1. [GIS](https://universitas.bukupedia.co.id/gis/)
+2. [Pemrograman Web Dasar](https://universitas.bukupedia.co.id/webdasar/)
 
 ![image](https://github.com/bukped/bukped.github.io/assets/11188109/302aef24-7512-4fe9-be64-f1e33e355416)
 
