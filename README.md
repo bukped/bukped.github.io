@@ -185,27 +185,27 @@ Bagaimana membuat perintah yang baik di AI, khususnya chatgpt? Buatlah perintah 
 Atau disingkat dengan “Koran Lapangan”, masing-masing point uraiannya adalah:
 
 Konteks:  
-Informasi latar belakang atau situasi yang relevan untuk memahami perintah atau permintaan.
+Informasi latar belakang atau situasi yang relevan untuk memahami perintah atau permintaan.  
 Peran:  
-Tugas atau peran spesifik yang diharapkan dari model AI, seperti sebagai asisten, penulis, atau penyedia informasi.
+Tugas atau peran spesifik yang diharapkan dari model AI, seperti sebagai asisten, penulis, atau penyedia informasi.  
 Larangan:  
-Apa yang harus dihindari atau batasan yang harus diperhatikan saat memberikan jawaban atau menjalankan perintah.
+Apa yang harus dihindari atau batasan yang harus diperhatikan saat memberikan jawaban atau menjalankan perintah.  
 Panjang:  
-Ketentuan tentang seberapa panjang atau singkat jawaban yang diinginkan.
+Ketentuan tentang seberapa panjang atau singkat jawaban yang diinginkan.  
 Tambahan:  
-Instruksi tambahan yang mungkin relevan untuk memenuhi permintaan dengan lebih baik.
+Instruksi tambahan yang mungkin relevan untuk memenuhi permintaan dengan lebih baik.  
 
-Contohnya adalah:
+Contohnya adalah:  
 
 Konteks:  
-Pelatihan ini dilakukan untuk meningkatkan keterampilan teknis karyawan di bidang Manajemen Proyek. Tujuan laporan ini adalah untuk memberikan ringkasan hasil pelatihan, termasuk penilaian terhadap efektivitas materi pelatihan dan umpan balik dari peserta.
+Pelatihan ini dilakukan untuk meningkatkan keterampilan teknis karyawan di bidang Manajemen Proyek. Tujuan laporan ini adalah untuk memberikan ringkasan hasil pelatihan, termasuk penilaian terhadap efektivitas materi pelatihan dan umpan balik dari peserta.  
 Peran:  
-Sebagai asisten penulis laporan, tugas saya adalah mengumpulkan data yang relevan, menyusun ringkasan, dan menyajikan temuan dalam format laporan yang jelas dan terstruktur.
+Sebagai asisten penulis laporan, tugas saya adalah mengumpulkan data yang relevan, menyusun ringkasan, dan menyajikan temuan dalam format laporan yang jelas dan terstruktur.  
 Larangan:  
-Hindari memasukkan informasi pribadi peserta atau data sensitif yang tidak relevan. Jangan menggunakan bahasa teknis yang terlalu kompleks yang bisa membingungkan pembaca yang bukan ahli di bidang ini.
+Hindari memasukkan informasi pribadi peserta atau data sensitif yang tidak relevan. Jangan menggunakan bahasa teknis yang terlalu kompleks yang bisa membingungkan pembaca yang bukan ahli di bidang ini.  
 Panjang:  
 Laporan harus cukup ringkas untuk dibaca dalam waktu 5-10 menit, dengan panjang sekitar 2-4 halaman. Setiap bagian harus langsung ke intinya tanpa mengabaikan detail penting.
-Tambahan: Sertakan grafik atau tabel untuk mendukung data dan hasil pelatihan. Pastikan untuk memberikan rekomendasi berdasarkan temuan yang diperoleh dan sertakan kutipan dari umpan balik peserta jika relevan.
+Tambahan: Sertakan grafik atau tabel untuk mendukung data dan hasil pelatihan. Pastikan untuk memberikan rekomendasi berdasarkan temuan yang diperoleh dan sertakan kutipan dari umpan balik peserta jika relevan.  
 
 
 
