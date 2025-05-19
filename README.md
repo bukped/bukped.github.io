@@ -176,6 +176,8 @@ Daftar jurnal yang direkomendasikan untuk publikasi bisa dilihat di [daftar jurn
 
 ### Submission to Elsevier
 
+Pastikan tidak ada lagi direktori dalam direktori kerja latex
+
 ![image](https://github.com/user-attachments/assets/65fb26c8-2ee0-4e82-a34c-d63cabb6704b)
 
 Yang di submit:
