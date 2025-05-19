@@ -183,6 +183,10 @@ Yang di submit:
 2. File .bib dan .eps : manuscript
 3. Figure : Figure Type
 
+![image](https://github.com/user-attachments/assets/f7bb7aad-5a3d-4177-94a2-823b7e95cecb)
+
+
+
 ## Teknik Prompting
 
 Bagaimana membuat perintah yang baik di AI, khususnya chatgpt? Buatlah perintah dengan ketentuan sebagai berikut:
