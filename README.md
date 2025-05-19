@@ -174,6 +174,15 @@ Daftar jurnal yang direkomendasikan untuk publikasi bisa dilihat di [daftar jurn
 3. Download dan install ekstensi Latex Workshop di vscode
    ![image](https://github.com/user-attachments/assets/fc6e4d49-266d-4ebe-911b-0725bf651482)
 
+### Submission to Elsevier
+
+![image](https://github.com/user-attachments/assets/65fb26c8-2ee0-4e82-a34c-d63cabb6704b)
+
+Yang di submit:
+1. File .tex : manuscript
+2. File .bib dan .eps : manuscript
+3. Figure : Figure Type
+
 ## Teknik Prompting
 
 Bagaimana membuat perintah yang baik di AI, khususnya chatgpt? Buatlah perintah dengan ketentuan sebagai berikut:
