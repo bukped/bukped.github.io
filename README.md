@@ -187,7 +187,12 @@ Yang di submit:
 
 ![image](https://github.com/user-attachments/assets/f7bb7aad-5a3d-4177-94a2-823b7e95cecb)
 
+## Penulisan Jurnal
 
+Yang pertama kali dituliskan dalam jurnal adalah method>result>discussion:
+1. Method : berisi metode yang kita gunakan
+2. Result : berisi hasil dari implementasi method
+3. Discussion : perbandingan dengan karya orang lain
 
 ## Teknik Prompting
 
