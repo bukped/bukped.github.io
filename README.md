@@ -229,3 +229,10 @@ Tambahan: Sertakan grafik atau tabel untuk mendukung data dan hasil pelatihan. P
 
 
 
+## Scientific Integrity
+
+Pastikan tidak menggunakan:
+1. Data sintetik atau data buatan
+2. Tidak melakukan simulated atau simulasi data agar hasil komparasi berhasil
+
+Pastikan selalu mengambil dari dataset asli dari hasil protokol yang valid dan terpercaya.
